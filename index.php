@@ -2,6 +2,6 @@
 
 print "helllooooooooooooooooo worlddddddddddddddd......\n";
 
-print "helllooooooooooooooooo worlddddddddddddddd......iiiiiiiiiiiiiiiii\n";
+print "People may hear your words, but they feel your attitude. .\n";
 
 ?>
